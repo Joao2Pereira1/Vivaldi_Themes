@@ -1,5 +1,6 @@
-The right place to find the best themes for your vivaldi.
+To use the following themes, go to vivaldi, settings, then themes, choose import theme and finally import the zip file inside the animated wallpapers directory of the repository. Enjoy the themes  😀
 
+The right place to find the best themes for your vivaldi.
 
 
 https://github.com/user-attachments/assets/869b52fb-0823-4c4a-af04-9b4eb8db91ba
