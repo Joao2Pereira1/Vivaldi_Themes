@@ -1,4 +1,4 @@
-**How to install theme:** To use the following themes, go to vivaldi, settings, then themes, choose import theme and finally import the zip file inside the animated wallpapers directory of the repository. Enjoy the themes  😀
+**How to install theme:** To use the following themes, open vivaldi > settings > themes > choose import theme > finally import the zip file inside the animated wallpapers directory of the repository. Enjoy the themes  😀
 
 The right place to find the best themes for your vivaldi.
 
